@@ -1,3 +1,18 @@
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+
+@@  __  __  __  _  _  __  ___  _  _  ___  __    __   @@
+@@  (  \/  )(  )( \( )(  )( __)( )( )(  _) (  )  (  ); @@
+@@   )     ( )(  )  (  )(  \__\ )__(  )_) )(__)  (__;    @@
+@@  (_/\/\_)(__)(_)\_)(__)(___/(_)(_)(___) (____)(____); @@
+	
+@@                       by Vika & Dai, Berlin Summer 2024 @@
+
+
 # Minishell Project README
 
 ## Table of Contents
